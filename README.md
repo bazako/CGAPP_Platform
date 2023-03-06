@@ -27,8 +27,12 @@ Activate your enviroment : `$ conda activate CGAPP_Platform`
 
 `$ bash run_experiment1.sh`
 
-Note: the first part of the experiment (selections of the best params) is commented, due to this stage is very heavy in time of computation.
+Note: the first part of the experiment (selections of the best params) is ommited, due to this stage is very heavy in time of computation. The experiments in file are with the best params. 
 
 ## Run Experiment 2
 
 `$ bash run_experiment2.sh`
+
+## Run Experiment 3
+
+`$ bash run_experiment3.sh`
